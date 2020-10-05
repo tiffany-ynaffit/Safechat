@@ -1,0 +1,5 @@
+<root>
+    <item name='com.google.firebase.database.DataSnapshot java.lang.Object getValue()'>
+        <annotation name='org.jetbrains.annotations.Nullable' />
+    </item>
+</root>

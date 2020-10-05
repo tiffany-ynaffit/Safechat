@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "129319673479",
+    "firebase_url": "https://my-encryptedchat-de76f.firebaseio.com",
+    "project_id": "my-encryptedchat-de76f",
+    "storage_bucket": "my-encryptedchat-de76f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129319673479:android:092c6c5f02bc6204012222",
+        "android_client_info": {
+          "package_name": "com.example.safechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129319673479-su1gdpmi4qrmotbvfg9r9ubme5sncjij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.safechat",
+            "certificate_hash": "760e700f4bf7565065d562c37f05eed700c252d8"
+          }
+        },
+        {
+          "client_id": "129319673479-8ndkch2ismr9v6rn7jnl6reqltg4u9dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeEVNB0AkpbtgF-0mdJF2gw_yRQHrR0_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129319673479-8ndkch2ismr9v6rn7jnl6reqltg4u9dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
